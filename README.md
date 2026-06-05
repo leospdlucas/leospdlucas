@@ -47,8 +47,9 @@ A psychometric quiz app inspired by a sci-fi novel I'm writing. The system evalu
 
 ## GitHub Stats
 
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leospdlucas&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leospdlucas&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=leospdlucas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leospdlucas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
