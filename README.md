@@ -41,7 +41,7 @@ A psychometric quiz app inspired by a sci-fi novel I'm writing. The system evalu
 | Database | PostgreSQL (Neon serverless), SQL views and queries |
 | Frontend | HTML5, CSS3, Vanilla JavaScript, GitHub Pages |
 
-🔗 [dte-java](https://github.com/leospdlucas/dte-java) &nbsp;|&nbsp; [dte-sql](https://github.com/leospdlucas/dte-sql) &nbsp;|&nbsp; [DTE-WebApp](https://github.com/leospdlucas/DTE-WebApp)
+🔗 [dte-java](https://github.com/leospdlucas/dte-java) &nbsp;|&nbsp; [dte-sql](https://github.com/leospdlucas/dte-sql) &nbsp;|&nbsp; [DTE-WebApp](https://github.com/leospdlucas/DTE-web)
 
 ---
 
@@ -54,4 +54,4 @@ A psychometric quiz app inspired by a sci-fi novel I'm writing. The system evalu
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leospdlucas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardospdlucas)
